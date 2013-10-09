@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	margin: 15px 0;
+}
+p {
+	display: inline-block;
+	margin: 10px;
+}
+ul {
+	list-style-type: none;
+}
+#container {
+	margin: 10px auto;
+	width: 1200px;
+}
+#ninja {
+	margin-top: 50px;
+}
